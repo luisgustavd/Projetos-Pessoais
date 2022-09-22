@@ -1,2 +1,2 @@
 # Projetos-Pessoais
-Repositório dedicado para projetos pessoais, focando para montagem de portfólio.
+Repositório dedicado para projetos pessoais, focando para <strong>montagem de portfólio<strong>.
